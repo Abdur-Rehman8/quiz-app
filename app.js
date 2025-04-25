@@ -186,3 +186,8 @@ const nextQuestion = () => {
 function restartGame() {
   renderMCQS();
 }
+
+
+function timer(){
+  console.log('nothing')
+}
