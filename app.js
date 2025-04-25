@@ -189,5 +189,5 @@ function restartGame() {
 
 
 function timer(){
-  console.log('nothing')
+  console.log('changed')
 }
